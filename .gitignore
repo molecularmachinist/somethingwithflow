@@ -1,0 +1,4 @@
+*.gro
+*.xtc
+*.npy
+*.pkl
